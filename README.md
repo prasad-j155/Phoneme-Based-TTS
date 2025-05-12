@@ -27,8 +27,7 @@ Kokoro gave clear and smooth audio from text.
 The L1 and L2 scores showed the generated audio was close to the original.
 
 Since Kokoro converts text to phonemes itself, we didn’t need extra steps.
-
-I have uploaded a streamlit app using same model : 
+ 
 
 🚀 What Can Be Improved
 Add other testing methods like KL Divergence or DTW.
